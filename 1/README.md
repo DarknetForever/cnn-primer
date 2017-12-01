@@ -1,4 +1,4 @@
-#Lesson 1#
+# Lesson 1 #
 
 Convolutional neural networks are all about convolutions! So we better know what those are.
 
@@ -6,12 +6,12 @@ Convolutions are how we apply a small filter or kernel to an image to create a n
 
 ![Convolution](https://camo.githubusercontent.com/709b7f5eb5203b41f9456f887787b6ea790878b5/68747470733a2f2f636f6d6d756e6974792e61726d2e636f6d2f6366732d66696c652f5f5f6b65792f636f6d6d756e6974797365727665722d626c6f67732d636f6d706f6e656e74732d7765626c6f6766696c65732f30302d30302d30302d32302d36362f343738362e636f6e762e706e67)
 
-##Readings##
+## Readings ##
 
 - [Wikipedia: Kernel\_\(image\_processing\)](https://en.wikipedia.org/wiki/Kernel\_\(image_processing\))
 - Google "Image Convolution" and read some other things (if you want)
 
-##Implement it!##
+## Implement it! ##
 
 I've provided code to load images and display them for you. Run:
 
